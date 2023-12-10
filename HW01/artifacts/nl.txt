@@ -1,0 +1,38 @@
+(python-labs) qvntz@qvntz-osx HW01 % python nl.py                   
+a
+        1 a
+b
+        2 b
+c
+        3 c
+
+        4 
+d
+        5 d
+e
+        6 e
+(python-labs) qvntz@qvntz-osx HW01 % python nl.py text.txt 
+        1 abc
+        2 defgh
+        3 askldj
+        4 alskdjasdk
+        5 asdkkkkkk
+        6 
+        7 a;sdlaksdkkdk
+        8 
+        9 
+        10 
+        11 
+(python-labs) qvntz@qvntz-osx HW01 % python nl.py text.txt text2.txt 
+        1 abc
+        2 defgh
+        3 askldj
+        4 alskdjasdk
+        5 asdkkkkkk
+        6 
+        7 a;sdlaksdkkdk
+        8 
+        9 
+        10 
+        11 
+(python-labs) qvntz@qvntz-osx HW01 % 

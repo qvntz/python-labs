@@ -1,0 +1,13 @@
+(python-labs) qvntz@qvntz-osx HW01 % python wc.py text.txt 
+12 6 57 text.txt
+(python-labs) qvntz@qvntz-osx HW01 % python wc.py text.txt text2.txt 
+12 6 57 text.txt
+20 20 49 text2.txt
+32 26 106 total
+(python-labs) qvntz@qvntz-osx HW01 % python wc.py                   
+a
+b
+c
+d e f
+
+5 6 12

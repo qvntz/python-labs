@@ -1,0 +1,4 @@
+2023-12-10 18:22:19 [User] hello
+2023-12-10 18:22:24 [Program] hello
+2023-12-10 18:22:29 [User] broooo
+2023-12-10 18:22:34 [Program] broooo
